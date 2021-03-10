@@ -13,6 +13,7 @@
   </li>
   <li>💼 Entertaining full-time employment as a Junior Dev (willing to relocate)</li>
   <li>📫 Contact me at emerconn7@gmail.com</li>
+</ul>
 
 ---
 
