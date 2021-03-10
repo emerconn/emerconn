@@ -32,3 +32,6 @@
 ---
 
 ## Featured Contributions
+
+- Improve freeCodeCamp's curriculum
+  - [First PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/41422)
