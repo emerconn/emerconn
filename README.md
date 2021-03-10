@@ -1,19 +1,10 @@
 ## About Emer
-<ul style="display:flex;">
-  <li>🔭 Studying Cybersecurity (Sophomore, AS)</li>
-  <li>👀 Interested in Software Development, Data Science, and Security</li>
-  <li style="align-items:center;">
-    🌱 Learning
-    <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1"
-         alt="CSS">
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=ffa500"
-         alt="JavaScript">
-    <img src="https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=a91401"
-         alt="Ruby">
-  </li>
-  <li>💼 Entertaining full-time employment as a Junior Dev (willing to relocate)</li>
-  <li>📫 Contact me at emerconn7@gmail.com</li>
-</ul>
+
+- 🔭 Currently studying Cybersecurity
+- 👀 Interested in Software Development, Data Science, and Security
+- 🌱 Learning ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=ffa500) ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=a91401)
+- 💼 Entertaining full-time employment as a Junior Dev (willing to relocate)
+- 📫 Contact me at emerconn7@gmail.com
 
 ---
 
