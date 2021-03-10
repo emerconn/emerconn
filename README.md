@@ -8,7 +8,7 @@
 
 ---
 
-## Novice:
+## Novice Languages:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=e34f26)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=008000)
