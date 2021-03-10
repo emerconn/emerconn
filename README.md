@@ -17,6 +17,8 @@
 ![Manjaro](https://img.shields.io/badge/-Manjaro-000000?style=flat&logo=Manjaro&logoColor=35BF5C)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash&logoColor=4eaa25)
 
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=0078d6)
+
 ![VS-Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code&logoColor=007aCC)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim&logoColor=019733)
 ![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=Neovim&logoColor=57a143)
