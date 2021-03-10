@@ -1,8 +1,8 @@
 ## About Emer
-<ul>
+<ul style="display:flex;">
   <li>🔭 Studying Cybersecurity (Sophomore, AS)</li>
   <li>👀 Interested in Software Development, Data Science, and Security</li>
-  <li style="display:flex; align-items:center;">
+  <li style="align-items:center;">
     🌱 Learning
     <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1"
          alt="CSS">
