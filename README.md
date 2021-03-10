@@ -8,6 +8,13 @@
 
 ---
 
-## Novice in:
+## Novice:
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=008000)
+
+---
+
+## Tools Used:
+
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=f05033)
