@@ -14,7 +14,9 @@
 ## Tools Used:
 
 
-![Vim](https://img.shields.io/badge/-Bash-000000?style=flat&logo=vim&logoColor=019733)
+![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim&logoColor=019733)
+![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=Neovim&logoColor=57a143)
+
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash&logoColor=4eaa25)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=f05033)
