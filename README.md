@@ -8,12 +8,12 @@
 
 ---
 
-## Novice Languages:
+### Novice Languages:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=e34f26)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=008000)
 
-## Tools Used:
+### Tools Used:
 
 ![Manjaro](https://img.shields.io/badge/-Manjaro-000000?style=flat&logo=Manjaro&logoColor=35BF5C)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash&logoColor=4eaa25)
@@ -31,7 +31,7 @@
 
 ---
 
-## Featured Contributions
+### Featured Contributions
 
 - Improve freeCodeCamp's curriculum
   - [First PR](https://github.com/freeCodeCamp/freeCodeCamp/pull/41422)
