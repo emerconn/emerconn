@@ -9,9 +9,12 @@
 
 ## Novice:
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=008000)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=pPthon&logoColor=008000)
 
 ## Tools Used:
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=f05033)
+
+![Vim](https://img.shields.io/badge/-Bash-000000?style=flat&logo=vim&logoColor=019733)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash&logoColor=4eaa25)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=f05033)
