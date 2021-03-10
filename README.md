@@ -9,11 +9,12 @@
 
 ## Novice:
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=pPthon&logoColor=008000)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=008000)
 
 ## Tools Used:
 
 
+![VS Code](https://img.shields.io/badge/-VS-Code-000000?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim&logoColor=019733)
 ![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=Neovim&logoColor=57a143)
 
