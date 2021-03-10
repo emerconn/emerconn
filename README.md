@@ -18,6 +18,7 @@
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=GNU-Bash&logoColor=4eaa25)
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=0078d6)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=PowerShell&logoColor=5391fe)
 
 ![VS-Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=Visual-Studio-Code&logoColor=007aCC)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim&logoColor=019733)
