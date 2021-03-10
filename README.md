@@ -8,5 +8,6 @@
 
 --
 
-## Main Languages Used
+## Novice in:
 
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=008000)
