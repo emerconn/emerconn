@@ -21,7 +21,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=0078d6)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=PowerShell&logoColor=5391fe)
 
-![VS-Code](https://img.shields.io/badge/-VS%Code-000000?style=flat&logo=Visual-Studio-Code&logoColor=007aCC)
+![VS-Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=Visual-Studio-Code&logoColor=007aCC)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat&logo=Vim&logoColor=019733)
 ![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat&logo=Neovim&logoColor=57a143)
 
