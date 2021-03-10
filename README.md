@@ -27,7 +27,7 @@
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub&logoColor=181717)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=f05032)
+![Git](https://img.shields.io/badge/-Git?style=flat&logo=Git&logoColor=f05032)
 
 ---
 
