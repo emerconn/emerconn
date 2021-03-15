@@ -2,7 +2,7 @@
 
 - 🔭 Studying Cybersecurity (Sophomore, AS)
 - 👀 Interested in Software Development, Data Science, and Security
-- 🌱 Learning ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e) ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=a91401)
+- 🌱 Learning ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e) ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=a91401)
 - 💼 Entertaining full-time employment as a Junior Dev (willing to relocate)
 - 📫 Contact me at emerconn7@gmail.com
 
@@ -11,6 +11,7 @@
 ### Novice Languages:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=3776ab)
 
 ### Tools Used:
