@@ -1,7 +1,7 @@
 ## About Emer
 
 - 🔭 Studying Cybersecurity (Sophomore, AS)
-- 👀 Interested in Software Development, Data Science, and Security
+- 👀 Interested in Full-Stack Web Development & Security
 - 🌱 Learning  ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=a91401)
 - 💼 Entertaining full-time employment as a Junior Dev (willing to relocate)
 - 📫 Contact me at emerconn7@gmail.com
