@@ -2,7 +2,7 @@
 
 - 🔭 Studying Cybersecurity (Sophomore, AS)
 - 👀 Interested in Full-Stack Web Development & Security
-- 🌱 Learning  ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby&logoColor=a91401)
+- 🌱 Learning  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=3776ab)
 - 💼 Entertaining full-time employment as a Junior Dev (willing to relocate)
 - 📫 Contact me at https://www.emerconghaile.dev/#contact
 
