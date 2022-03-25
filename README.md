@@ -1,5 +1,3 @@
-## About Me
-
 - 🔭 Studying Cybersecurity (Sophomore, AS)
 - 💼 Desktop Support Engineer
 - 📫 Contact me at https://www.emerconghaile.dev/#contact
