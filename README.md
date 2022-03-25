@@ -1,4 +1,4 @@
-## About Emer
+## About Me
 
 - 🔭 Studying Cybersecurity (Sophomore, AS)
 - 💼 Desktop Support Engineer
