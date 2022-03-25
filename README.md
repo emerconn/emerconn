@@ -1,7 +1,6 @@
 ## About Emer
 
 - 🔭 Studying Cybersecurity (Sophomore, AS)
-- 👀 Interested Cybersecurity, Web App Security & Web Development
 - 🌱 Learning  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=3776ab)
 - 💼 Looking for IT and/or dev work
 - 📫 Contact me at https://www.emerconghaile.dev/#contact
@@ -10,7 +9,7 @@
 
 ### Beginner:
 
-![Crystal](https://img.shields.io/badge/-Crystal-l000000?style=flat&logo=crystal&logoColor=ffffff)
+![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=crystal&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=3776ab)
