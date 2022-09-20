@@ -1,6 +1,6 @@
 - 🔭 Studying Cybersecurity (AS)
 - 💼 SysOps Engineer
-- 📫 Contact me at emerconn7@gmail.com
+- 📫 Contact me: emerconn7@gmail.com
 
 ---
 
