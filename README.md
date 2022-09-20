@@ -15,5 +15,5 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5&logoColor=e34f26)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffd43b)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell&logoColor=2671be)
-![Python](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Python&logoColor=ffd43b)
