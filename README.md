@@ -1,5 +1,5 @@
 - 🔭 Studying Cybersecurity (AS)
-- 💼 Desktop Support Engineer
+- 💼 SysOps Engineer
 - 📫 Contact me at emerconn7@gmail.com
 
 ---
