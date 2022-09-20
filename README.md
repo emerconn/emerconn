@@ -1,3 +1,4 @@
+- [LinkedIn](https://www.linkedin.com/in/emerconghaile/)
 - 🔭 Studying Cybersecurity (AS)
 - 💼 SysOps Engineer
 - 📫 Contact me: emerconn7@gmail.com
