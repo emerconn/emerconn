@@ -8,11 +8,11 @@
 
 ### Tools
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Powershell&logoColor=293137)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=293137)
 
 ### Languages
 
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Powershell&logoColor=293137)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Bash&logoColor=293137)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell&logoColor=2671be)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffd43b)
 
