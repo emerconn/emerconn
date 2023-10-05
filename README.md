@@ -6,15 +6,19 @@
 
 ## Frequent
 
+### Tools
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Powershell&logoColor=293137)
+
 ### Languages
 
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=Powershell&logoColor=293137)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell&logoColor=2671be)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffd43b)
 
-### Tools
-
 ## Known
+
+### Tools
 
 ### Languages
 
@@ -23,11 +27,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=crystal&logoColor=ffffff)
-
-### Tools
-
-### Intermediate: 
-
-
-
-
