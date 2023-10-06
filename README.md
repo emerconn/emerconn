@@ -11,8 +11,8 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=844FBA)
-![Unifi](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Ubiquiti&logoColor=0559C9)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000000?style=flat&logo=Proxmox&logoColor=E57000)
+![Unifi](https://img.shields.io/badge/-Unifi-000000?style=flat&logo=Ubiquiti&logoColor=0559C9)
 
 ### Languages
 
