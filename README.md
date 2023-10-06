@@ -8,11 +8,13 @@
 
 ### Tools
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=293137)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=844FBA)
 
 ### Languages
 
-![](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell&logoColor=2671be)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffd43b)
 
