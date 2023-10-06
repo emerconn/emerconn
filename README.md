@@ -4,6 +4,10 @@
 
 ---
 
+## Learning
+
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go&logoColor=00ADD8)
+
 ## Frequent
 
 ### Tools
