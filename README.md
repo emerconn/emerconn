@@ -13,11 +13,9 @@
 ### Tools
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=844FBA)
+![ESXi/vSphere](https://img.shields.io/badge/-ESXi/vSphere-000000?style=flat&logo=VMware&logoColor=607078)
 ![Puppet](https://img.shields.io/badge/-Puppet-000000?style=flat&logo=Puppet&logoColor=FFAE1A)
-![Proxmox](https://img.shields.io/badge/-Proxmox-000000?style=flat&logo=Proxmox&logoColor=E57000)
-![Unifi](https://img.shields.io/badge/-Unifi-000000?style=flat&logo=Ubiquiti&logoColor=0559C9)
 
 ### Languages
 
@@ -29,8 +27,9 @@
 
 ### Tools
 
-![ESXi](https://img.shields.io/badge/-ESXi-000000?style=flat&logo=VMware&logoColor=607078)
-![vSphere](https://img.shields.io/badge/-vSphere-000000?style=flat&logo=VMware&logoColor=607078)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
+![Proxmox](https://img.shields.io/badge/-Proxmox-000000?style=flat&logo=Proxmox&logoColor=E57000)
+![Unifi](https://img.shields.io/badge/-Unifi-000000?style=flat&logo=Ubiquiti&logoColor=0559C9)
 
 ### Languages
 
