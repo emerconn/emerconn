@@ -12,7 +12,7 @@
 
 ### Languages
 
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![Ba](https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![Powershell](https://img.shields.io/badge/-Powershell-000000?style=flat&logo=Powershell&logoColor=2671be)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=ffd43b)
 
