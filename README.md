@@ -11,6 +11,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=2496ED)
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=844FBA)
+![Unifi](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Ubiquiti&logoColor=0559C9)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000000?style=flat&logo=Proxmox&logoColor=E57000)
 
 ### Languages
@@ -24,7 +25,7 @@
 ### Tools
 
 ![ESXi](https://img.shields.io/badge/-ESXi-000000?style=flat&logo=VMware&logoColor=607078)
-![vSphere](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=VMware&logoColor=607078)
+![vSphere](https://img.shields.io/badge/-vSphere-000000?style=flat&logo=VMware&logoColor=607078)
 
 ### Languages
 
