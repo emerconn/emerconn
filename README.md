@@ -1,6 +1,4 @@
-- 👔 [LinkedIn](https://www.linkedin.com/in/emerconnelly/)
-- 💼 DevOps Engineer @ Wolters Kluwer
-- 📫 Contact me: emerconn7@gmail.com
+💼 DevOps Engineer @ Wolters Kluwer
 
 ---
 
