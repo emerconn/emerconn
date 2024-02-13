@@ -35,4 +35,3 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=2965f1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=f7ff1e)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Crystal](https://img.shields.io/badge/-Crystal-000000?style=flat&logo=crystal&logoColor=ffffff)
