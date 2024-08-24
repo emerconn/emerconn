@@ -9,5 +9,3 @@ and beer.
 and sleeping.
 
 in that order.
-
-and lots of other things.
