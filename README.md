@@ -9,5 +9,3 @@ and beer.
 and sleeping.
 
 and lots of other things.
-
-ok, we get it.
