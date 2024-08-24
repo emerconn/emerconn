@@ -1,4 +1,4 @@
-💼 DevOps & Cloud Engineer @ Wolters Kluwer
+💼 DevOps & Cloud Engineer for Wolters Kluwer
 
 I love two things: solving complex problems and collaborating with people.
 
