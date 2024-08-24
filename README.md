@@ -1,11 +1,11 @@
 💼 DevOps, Cloud, & Platform Engineer for Wolters Kluwer (Health)
 
-I love two things most: solving complex problems and collaborating with awesome people.
+I love two things most; solving complex problems and collaborating with awesome people.
 
-and coffee.
+And coffee.
 
-and beer.
+And beer.
 
-and sleeping.
+And sleeping.
 
-in that order.
+In that order.
