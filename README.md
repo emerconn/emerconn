@@ -1,6 +1,6 @@
 💼 DevOps & Cloud Engineer for Wolters Kluwer
 
-I love two things: solving complex problems and collaborating with people.
+I love two things most: solving complex problems and collaborating with people.
 
 and coffee.
 
