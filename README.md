@@ -1,11 +1,12 @@
-💼 DevOps, Cloud, & Platform Engineer in the Healthcare Industry. Kubernetes, Azure, & Terraform SME.
+💼 DevOps, Cloud, & Platform Engineer in the Healthcare Industry.
+🤓 Kubernetes, Azure, & Terraform SME.
 
-I love two things most; solving complex problems and collaborating with awesome people.
+🫀  I love two things most; solving complex problems and collaborating with awesome people.
 
-And coffee.
+☕ And coffee.
 
-And beer.
+🍺 And beer.
 
-And sleeping.
+😴 And sleeping.
 
-In that order.
+↕️ In that order.
