@@ -1,4 +1,4 @@
-💼 DevOps, Cloud, & Platform Engineer in the Healthcare Industry.
+💼 DevOps, Cloud, & Platform Engineer.
 
 🤓 Kubernetes, Azure, & Terraform SME.
 
