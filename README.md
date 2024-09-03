@@ -1,3 +1,5 @@
+⚠️ My GitHub username has changed from "emerconnelly" ⚠️
+
 💼 DevOps, Cloud, & Platform Engineer.
 
 🤓 Kubernetes, Azure, & Terraform SME.
@@ -11,8 +13,3 @@
 😴 And sleeping.
 
 ↕️ In that order.
-
-
-Current projects
-- Studying for CKA exam
-- Learning Go & Typescript / React
