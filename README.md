@@ -11,3 +11,8 @@
 😴 And sleeping.
 
 ↕️ In that order.
+
+
+Current projects
+- Studying for CKA exam
+- Learning Go & Typescript / React
