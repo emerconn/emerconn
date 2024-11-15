@@ -2,14 +2,8 @@
 
 💼 DevOps, Cloud, & Platform Engineer.
 
-🤓 Kubernetes, Azure, & Terraform SME.
+🤓 Infra, K8s, Cloud, & IaC nerd.
 
-🫀  I love two things most; solving complex problems and collaborating with awesome people.
+---
 
-☕ And coffee.
-
-🍺 And beer.
-
-😴 And sleeping.
-
-↕️ In that order.
+<!--START_SECTION:activity-->
