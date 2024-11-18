@@ -1,8 +1,8 @@
-⚠️ My GitHub username has changed from "emerconnelly" ⚠️
+⚠️ My GitHub username has changed from "emerconnelly"
 
-💼 DevOps, Cloud, & Platform Engineer.
+💼 DevOps, Cloud, & Platform Engineering
 
-🤓 Infra, K8s, Cloud, & IaC nerd.
+🤓 Infra, K8s, Cloud, & IaC nerd
 
 ---
 
